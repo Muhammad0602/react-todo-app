@@ -1,10 +1,10 @@
-# Math-Magicians
+# Todo-app-React
 
 <a name="readme-top"></a>
 
 <div align="center">
 
-  <h3><b> Math-Magicians README</b></h3>
+  <h3><b>  Todo-app-React README</b></h3>
 
 </div>
 
@@ -26,9 +26,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖Math-Magicians <a name="about-project"></a>
+# 📖 Todo-app-React <a name="about-project"></a>
 
-This is a simple website for math fans. You can do calculations as well as read math quotes.
+This is a simple website for helping you to play your day. You can add, remove, edit your daisly tasks. Also if you completed a task you can mark it as completed.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,7 +53,7 @@ This is a simple website for math fans. You can do calculations as well as read 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Visit Live]( https://muhammad0602.github.io/Math-Magicians/)
+[Visit Live]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
